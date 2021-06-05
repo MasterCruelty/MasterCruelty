@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/MasterCruelty/Updater/issues/23) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-2. 🎉 Merged PR [#20](https://github.com/MasterCruelty/robbot/pull/20) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 💪 Opened PR [#20](https://github.com/MasterCruelty/robbot/pull/20) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🎉 Merged PR [#19](https://github.com/MasterCruelty/robbot/pull/19) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 💪 Opened PR [#19](https://github.com/MasterCruelty/robbot/pull/19) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🎉 Merged PR [#18](https://github.com/MasterCruelty/robbot/pull/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Closed issue [#17](https://github.com/MasterCruelty/robbot/issues/17) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#18](https://github.com/MasterCruelty/robbot/issues/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 💪 Opened PR [#18](https://github.com/MasterCruelty/robbot/pull/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗️ Opened issue [#17](https://github.com/MasterCruelty/robbot/issues/17) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🗣 Commented on [#16](https://github.com/MasterCruelty/robbot/issues/16) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🗣 Commented on [#23](https://github.com/MasterCruelty/Updater/issues/23) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+3. 🎉 Merged PR [#20](https://github.com/MasterCruelty/robbot/pull/20) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#20](https://github.com/MasterCruelty/robbot/pull/20) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🎉 Merged PR [#19](https://github.com/MasterCruelty/robbot/pull/19) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 💪 Opened PR [#19](https://github.com/MasterCruelty/robbot/pull/19) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🎉 Merged PR [#18](https://github.com/MasterCruelty/robbot/pull/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Closed issue [#17](https://github.com/MasterCruelty/robbot/issues/17) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#18](https://github.com/MasterCruelty/robbot/issues/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 💪 Opened PR [#18](https://github.com/MasterCruelty/robbot/pull/18) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
