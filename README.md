@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/MasterCruelty/Updater/issues/27) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-2. 🎉 Merged PR [#27](https://github.com/MasterCruelty/Updater/pull/27) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-3. ❗️ Closed issue [#25](https://github.com/MasterCruelty/Updater/issues/25) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-4. 🎉 Merged PR [#26](https://github.com/MasterCruelty/Updater/pull/26) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-5. ❗️ Closed issue [#20](https://github.com/MasterCruelty/Updater/issues/20) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-6. 💪 Opened PR [#26](https://github.com/MasterCruelty/Updater/pull/26) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-7. 🗣 Commented on [#25](https://github.com/MasterCruelty/Updater/issues/25) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-8. 🎉 Merged PR [#24](https://github.com/MasterCruelty/Updater/pull/24) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-9. ❗️ Closed issue [#22](https://github.com/MasterCruelty/Updater/issues/22) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-10. 🎉 Merged PR [#23](https://github.com/MasterCruelty/Updater/pull/23) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+1. 🎉 Merged PR [#28](https://github.com/MasterCruelty/Updater/pull/28) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+2. 🗣 Commented on [#27](https://github.com/MasterCruelty/Updater/issues/27) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+3. 🎉 Merged PR [#27](https://github.com/MasterCruelty/Updater/pull/27) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+4. ❗️ Closed issue [#25](https://github.com/MasterCruelty/Updater/issues/25) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+5. 🎉 Merged PR [#26](https://github.com/MasterCruelty/Updater/pull/26) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+6. ❗️ Closed issue [#20](https://github.com/MasterCruelty/Updater/issues/20) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+7. 💪 Opened PR [#26](https://github.com/MasterCruelty/Updater/pull/26) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+8. 🗣 Commented on [#25](https://github.com/MasterCruelty/Updater/issues/25) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+9. 🎉 Merged PR [#24](https://github.com/MasterCruelty/Updater/pull/24) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+10. ❗️ Closed issue [#22](https://github.com/MasterCruelty/Updater/issues/22) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
 <!--END_SECTION:activity-->
