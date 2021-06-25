@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/akuma-hatekashi/organized-super-repl/pull/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
-2. 🎉 Merged PR [#38](https://github.com/MasterCruelty/Updater/pull/38) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-3. 🎉 Merged PR [#37](https://github.com/MasterCruelty/Updater/pull/37) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-4. 💪 Opened PR [#37](https://github.com/MasterCruelty/Updater/pull/37) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-5. 🎉 Merged PR [#36](https://github.com/MasterCruelty/Updater/pull/36) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-6. 💪 Opened PR [#36](https://github.com/MasterCruelty/Updater/pull/36) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-7. 🎉 Merged PR [#35](https://github.com/MasterCruelty/Updater/pull/35) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-8. 💪 Opened PR [#4](https://github.com/Jackamma/flask-vps/pull/4) in [Jackamma/flask-vps](https://github.com/Jackamma/flask-vps)
-9. 🗣 Commented on [#3](https://github.com/Jackamma/flask-vps/issues/3) in [Jackamma/flask-vps](https://github.com/Jackamma/flask-vps)
-10. 🎉 Merged PR [#34](https://github.com/MasterCruelty/Updater/pull/34) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+1. 🗣 Commented on [#22](https://github.com/MasterCruelty/robbot/issues/22) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. ❗️ Opened issue [#22](https://github.com/MasterCruelty/robbot/issues/22) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 💪 Opened PR [#2](https://github.com/akuma-hatekashi/organized-super-repl/pull/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
+4. 🎉 Merged PR [#38](https://github.com/MasterCruelty/Updater/pull/38) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+5. 🎉 Merged PR [#37](https://github.com/MasterCruelty/Updater/pull/37) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+6. 💪 Opened PR [#37](https://github.com/MasterCruelty/Updater/pull/37) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+7. 🎉 Merged PR [#36](https://github.com/MasterCruelty/Updater/pull/36) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+8. 💪 Opened PR [#36](https://github.com/MasterCruelty/Updater/pull/36) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+9. 🎉 Merged PR [#35](https://github.com/MasterCruelty/Updater/pull/35) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+10. 💪 Opened PR [#4](https://github.com/Jackamma/flask-vps/pull/4) in [Jackamma/flask-vps](https://github.com/Jackamma/flask-vps)
 <!--END_SECTION:activity-->
