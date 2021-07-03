@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/MasterCruelty/eMerger/pull/51) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 💪 Opened PR [#51](https://github.com/MasterCruelty/eMerger/pull/51) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. 🗣 Commented on [#50](https://github.com/MasterCruelty/Updater/issues/50) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-4. ❗️ Opened issue [#50](https://github.com/MasterCruelty/Updater/issues/50) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
-5. ❗️ Opened issue [#28](https://github.com/MasterCruelty/robbot/issues/28) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ❗️ Opened issue [#27](https://github.com/MasterCruelty/robbot/issues/27) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Opened issue [#26](https://github.com/MasterCruelty/robbot/issues/26) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#31](https://github.com/archetipico/Nereus/issues/31) in [archetipico/Nereus](https://github.com/archetipico/Nereus)
-9. 🗣 Commented on [#31](https://github.com/archetipico/Nereus/issues/31) in [archetipico/Nereus](https://github.com/archetipico/Nereus)
-10. 💪 Opened PR [#31](https://github.com/archetipico/Nereus/pull/31) in [archetipico/Nereus](https://github.com/archetipico/Nereus)
+1. ❗️ Opened issue [#53](https://github.com/MasterCruelty/eMerger/issues/53) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🎉 Merged PR [#52](https://github.com/MasterCruelty/eMerger/pull/52) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. ❗️ Closed issue [#50](https://github.com/MasterCruelty/eMerger/issues/50) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🎉 Merged PR [#51](https://github.com/MasterCruelty/eMerger/pull/51) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 💪 Opened PR [#51](https://github.com/MasterCruelty/eMerger/pull/51) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🗣 Commented on [#50](https://github.com/MasterCruelty/Updater/issues/50) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+7. ❗️ Opened issue [#50](https://github.com/MasterCruelty/Updater/issues/50) in [MasterCruelty/Updater](https://github.com/MasterCruelty/Updater)
+8. ❗️ Opened issue [#28](https://github.com/MasterCruelty/robbot/issues/28) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Opened issue [#27](https://github.com/MasterCruelty/robbot/issues/27) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗️ Opened issue [#26](https://github.com/MasterCruelty/robbot/issues/26) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
