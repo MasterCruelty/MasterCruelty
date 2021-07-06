@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/MasterCruelty/eMerger/pull/65) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🗣 Commented on [#60](https://github.com/MasterCruelty/eMerger/issues/60) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. 🗣 Commented on [#64](https://github.com/MasterCruelty/eMerger/issues/64) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🎉 Merged PR [#62](https://github.com/MasterCruelty/eMerger/pull/62) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. 🎉 Merged PR [#61](https://github.com/MasterCruelty/eMerger/pull/61) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. ❗️ Opened issue [#60](https://github.com/MasterCruelty/eMerger/issues/60) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. 🎉 Merged PR [#59](https://github.com/MasterCruelty/eMerger/pull/59) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-8. ❗️ Closed issue [#58](https://github.com/MasterCruelty/eMerger/issues/58) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-9. 🗣 Commented on [#58](https://github.com/MasterCruelty/eMerger/issues/58) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. ❗️ Opened issue [#58](https://github.com/MasterCruelty/eMerger/issues/58) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🗣 Commented on [#66](https://github.com/MasterCruelty/eMerger/issues/66) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🎉 Merged PR [#65](https://github.com/MasterCruelty/eMerger/pull/65) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. 🗣 Commented on [#60](https://github.com/MasterCruelty/eMerger/issues/60) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🗣 Commented on [#64](https://github.com/MasterCruelty/eMerger/issues/64) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🎉 Merged PR [#62](https://github.com/MasterCruelty/eMerger/pull/62) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🎉 Merged PR [#61](https://github.com/MasterCruelty/eMerger/pull/61) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. ❗️ Opened issue [#60](https://github.com/MasterCruelty/eMerger/issues/60) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. 🎉 Merged PR [#59](https://github.com/MasterCruelty/eMerger/pull/59) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+9. ❗️ Closed issue [#58](https://github.com/MasterCruelty/eMerger/issues/58) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🗣 Commented on [#58](https://github.com/MasterCruelty/eMerger/issues/58) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
