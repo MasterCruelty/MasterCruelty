@@ -9,12 +9,12 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/MasterCruelty/my-tg-app/issues/26) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-2. 🗣 Commented on [#71](https://github.com/MasterCruelty/eMerger/issues/71) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. ❗️ Closed issue [#56](https://github.com/MasterCruelty/eMerger/issues/56) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🎉 Merged PR [#69](https://github.com/MasterCruelty/eMerger/pull/69) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. 🗣 Commented on [#70](https://github.com/MasterCruelty/eMerger/issues/70) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. 🗣 Commented on [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+1. 🗣 Commented on [#26](https://github.com/MasterCruelty/my-tg-app/issues/26) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+2. ❗️ Opened issue [#26](https://github.com/MasterCruelty/my-tg-app/issues/26) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+3. 🗣 Commented on [#71](https://github.com/MasterCruelty/eMerger/issues/71) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. ❗️ Closed issue [#56](https://github.com/MasterCruelty/eMerger/issues/56) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🎉 Merged PR [#69](https://github.com/MasterCruelty/eMerger/pull/69) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🗣 Commented on [#70](https://github.com/MasterCruelty/eMerger/issues/70) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 7. 🗣 Commented on [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
 8. 🗣 Commented on [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
 9. 🗣 Commented on [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
