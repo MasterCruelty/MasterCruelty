@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🎉 Merged PR [#88](https://github.com/MasterCruelty/eMerger/pull/88) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. ❗️ Closed issue [#63](https://github.com/MasterCruelty/eMerger/issues/63) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🎉 Merged PR [#87](https://github.com/MasterCruelty/eMerger/pull/87) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. ❗️ Opened issue [#31](https://github.com/MasterCruelty/robbot/issues/31) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ❗️ Closed issue [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
-7. 🗣 Commented on [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
-8. ❗️ Opened issue [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
-9. ❗️ Opened issue [#1](https://github.com/archetipico/DeCipher/issues/1) in [archetipico/DeCipher](https://github.com/archetipico/DeCipher)
-10. 🎉 Merged PR [#86](https://github.com/MasterCruelty/eMerger/pull/86) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🎉 Merged PR [#90](https://github.com/MasterCruelty/eMerger/pull/90) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. ❗️ Closed issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. ❗️ Opened issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🎉 Merged PR [#88](https://github.com/MasterCruelty/eMerger/pull/88) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. ❗️ Closed issue [#63](https://github.com/MasterCruelty/eMerger/issues/63) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🎉 Merged PR [#87](https://github.com/MasterCruelty/eMerger/pull/87) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. ❗️ Opened issue [#31](https://github.com/MasterCruelty/robbot/issues/31) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Closed issue [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
+9. 🗣 Commented on [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
+10. ❗️ Opened issue [#1](https://github.com/Norelec91/norelecbot/issues/1) in [Norelec91/norelecbot](https://github.com/Norelec91/norelecbot)
 <!--END_SECTION:activity-->
