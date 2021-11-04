@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/mariolzz/nyaa_boruto_downloader/pull/7) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-2. 💪 Opened PR [#6](https://github.com/mariolzz/nyaa_boruto_downloader/pull/6) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-3. 💪 Opened PR [#3](https://github.com/mariolzz/nyaa_boruto_downloader/pull/3) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-4. 💪 Opened PR [#1](https://github.com/MasterCruelty/nyaa_boruto_downloader/pull/1) in [MasterCruelty/nyaa_boruto_downloader](https://github.com/MasterCruelty/nyaa_boruto_downloader)
-5. 🎉 Merged PR [#90](https://github.com/MasterCruelty/eMerger/pull/90) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. ❗️ Closed issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. ❗️ Opened issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-8. 🎉 Merged PR [#88](https://github.com/MasterCruelty/eMerger/pull/88) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-9. ❗️ Closed issue [#63](https://github.com/MasterCruelty/eMerger/issues/63) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. 🎉 Merged PR [#87](https://github.com/MasterCruelty/eMerger/pull/87) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. ❗️ Opened issue [#8](https://github.com/mariolzz/nyaa_boruto_downloader/issues/8) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+2. 💪 Opened PR [#7](https://github.com/mariolzz/nyaa_boruto_downloader/pull/7) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+3. 💪 Opened PR [#6](https://github.com/mariolzz/nyaa_boruto_downloader/pull/6) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+4. 💪 Opened PR [#3](https://github.com/mariolzz/nyaa_boruto_downloader/pull/3) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+5. 💪 Opened PR [#1](https://github.com/MasterCruelty/nyaa_boruto_downloader/pull/1) in [MasterCruelty/nyaa_boruto_downloader](https://github.com/MasterCruelty/nyaa_boruto_downloader)
+6. 🎉 Merged PR [#90](https://github.com/MasterCruelty/eMerger/pull/90) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. ❗️ Closed issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. ❗️ Opened issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+9. 🎉 Merged PR [#88](https://github.com/MasterCruelty/eMerger/pull/88) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. ❗️ Closed issue [#63](https://github.com/MasterCruelty/eMerger/issues/63) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
