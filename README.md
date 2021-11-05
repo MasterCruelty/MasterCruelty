@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/MasterCruelty/my-tg-app/pull/30) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-2. ❗️ Closed issue [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-3. 💪 Opened PR [#30](https://github.com/MasterCruelty/my-tg-app/pull/30) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-4. ❗️ Opened issue [#8](https://github.com/mariolzz/nyaa_boruto_downloader/issues/8) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-5. 💪 Opened PR [#7](https://github.com/mariolzz/nyaa_boruto_downloader/pull/7) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-6. 💪 Opened PR [#6](https://github.com/mariolzz/nyaa_boruto_downloader/pull/6) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-7. 💪 Opened PR [#3](https://github.com/mariolzz/nyaa_boruto_downloader/pull/3) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-8. 💪 Opened PR [#1](https://github.com/MasterCruelty/nyaa_boruto_downloader/pull/1) in [MasterCruelty/nyaa_boruto_downloader](https://github.com/MasterCruelty/nyaa_boruto_downloader)
-9. 🎉 Merged PR [#90](https://github.com/MasterCruelty/eMerger/pull/90) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. ❗️ Closed issue [#89](https://github.com/MasterCruelty/eMerger/issues/89) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🎉 Merged PR [#31](https://github.com/MasterCruelty/my-tg-app/pull/31) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+2. ❗️ Closed issue [#25](https://github.com/MasterCruelty/my-tg-app/issues/25) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+3. ❗️ Closed issue [#26](https://github.com/MasterCruelty/my-tg-app/issues/26) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+4. 💪 Opened PR [#31](https://github.com/MasterCruelty/my-tg-app/pull/31) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+5. 🎉 Merged PR [#30](https://github.com/MasterCruelty/my-tg-app/pull/30) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+6. ❗️ Closed issue [#24](https://github.com/MasterCruelty/my-tg-app/issues/24) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+7. 💪 Opened PR [#30](https://github.com/MasterCruelty/my-tg-app/pull/30) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+8. ❗️ Opened issue [#8](https://github.com/mariolzz/nyaa_boruto_downloader/issues/8) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+9. 💪 Opened PR [#7](https://github.com/mariolzz/nyaa_boruto_downloader/pull/7) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+10. 💪 Opened PR [#6](https://github.com/mariolzz/nyaa_boruto_downloader/pull/6) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
 <!--END_SECTION:activity-->
