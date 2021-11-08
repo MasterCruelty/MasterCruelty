@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/MasterCruelty/robbot/issues/36) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Opened issue [#35](https://github.com/MasterCruelty/robbot/issues/35) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🎉 Merged PR [#32](https://github.com/MasterCruelty/my-tg-app/pull/32) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-4. 💪 Opened PR [#32](https://github.com/MasterCruelty/my-tg-app/pull/32) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-5. ❗️ Opened issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ❗️ Opened issue [#33](https://github.com/MasterCruelty/robbot/issues/33) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 🗣 Commented on [#8](https://github.com/mariolzz/nyaa_boruto_downloader/issues/8) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
-8. 🎉 Merged PR [#32](https://github.com/MasterCruelty/robbot/pull/32) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 💪 Opened PR [#32](https://github.com/MasterCruelty/robbot/pull/32) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🎉 Merged PR [#31](https://github.com/MasterCruelty/my-tg-app/pull/31) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+1. ❗️ Opened issue [#33](https://github.com/MasterCruelty/my-tg-app/issues/33) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+2. ❗️ Opened issue [#36](https://github.com/MasterCruelty/robbot/issues/36) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Opened issue [#35](https://github.com/MasterCruelty/robbot/issues/35) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🎉 Merged PR [#32](https://github.com/MasterCruelty/my-tg-app/pull/32) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+5. 💪 Opened PR [#32](https://github.com/MasterCruelty/my-tg-app/pull/32) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+6. ❗️ Opened issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. ❗️ Opened issue [#33](https://github.com/MasterCruelty/robbot/issues/33) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 🗣 Commented on [#8](https://github.com/mariolzz/nyaa_boruto_downloader/issues/8) in [mariolzz/nyaa_boruto_downloader](https://github.com/mariolzz/nyaa_boruto_downloader)
+9. 🎉 Merged PR [#32](https://github.com/MasterCruelty/robbot/pull/32) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 💪 Opened PR [#32](https://github.com/MasterCruelty/robbot/pull/32) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
