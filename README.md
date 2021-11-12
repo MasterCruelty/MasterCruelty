@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/MasterCruelty/robbot/pull/38) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Closed issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🗣 Commented on [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🎉 Merged PR [#37](https://github.com/MasterCruelty/robbot/pull/37) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 💪 Opened PR [#37](https://github.com/MasterCruelty/robbot/pull/37) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ❗️ Closed issue [#33](https://github.com/MasterCruelty/my-tg-app/issues/33) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-7. 🎉 Merged PR [#34](https://github.com/MasterCruelty/my-tg-app/pull/34) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-8. 💪 Opened PR [#34](https://github.com/MasterCruelty/my-tg-app/pull/34) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-9. ❗️ Opened issue [#33](https://github.com/MasterCruelty/my-tg-app/issues/33) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-10. ❗️ Opened issue [#36](https://github.com/MasterCruelty/robbot/issues/36) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Opened issue [#35](https://github.com/MasterCruelty/my-tg-app/issues/35) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+2. 🎉 Merged PR [#38](https://github.com/MasterCruelty/robbot/pull/38) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Closed issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🗣 Commented on [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🎉 Merged PR [#37](https://github.com/MasterCruelty/robbot/pull/37) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 💪 Opened PR [#37](https://github.com/MasterCruelty/robbot/pull/37) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. ❗️ Closed issue [#33](https://github.com/MasterCruelty/my-tg-app/issues/33) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+8. 🎉 Merged PR [#34](https://github.com/MasterCruelty/my-tg-app/pull/34) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+9. 💪 Opened PR [#34](https://github.com/MasterCruelty/my-tg-app/pull/34) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+10. ❗️ Opened issue [#33](https://github.com/MasterCruelty/my-tg-app/issues/33) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
 <!--END_SECTION:activity-->
