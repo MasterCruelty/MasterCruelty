@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/MasterCruelty/eMerger/pull/91) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🗣 Commented on [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+1. 🗣 Commented on [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+2. 🎉 Merged PR [#91](https://github.com/MasterCruelty/eMerger/pull/91) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 3. 🗣 Commented on [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-4. ❗️ Opened issue [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-5. 🎉 Merged PR [#1](https://github.com/MasterCruelty/mastercruelty.github.io/pull/1) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-6. 💪 Opened PR [#1](https://github.com/MasterCruelty/mastercruelty.github.io/pull/1) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-7. ❗️ Opened issue [#35](https://github.com/MasterCruelty/my-tg-app/issues/35) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-8. 🎉 Merged PR [#38](https://github.com/MasterCruelty/robbot/pull/38) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. ❗️ Closed issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🗣 Commented on [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🗣 Commented on [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+5. ❗️ Opened issue [#2](https://github.com/MasterCruelty/mastercruelty.github.io/issues/2) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+6. 🎉 Merged PR [#1](https://github.com/MasterCruelty/mastercruelty.github.io/pull/1) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+7. 💪 Opened PR [#1](https://github.com/MasterCruelty/mastercruelty.github.io/pull/1) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+8. ❗️ Opened issue [#35](https://github.com/MasterCruelty/my-tg-app/issues/35) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+9. 🎉 Merged PR [#38](https://github.com/MasterCruelty/robbot/pull/38) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗️ Closed issue [#34](https://github.com/MasterCruelty/robbot/issues/34) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
