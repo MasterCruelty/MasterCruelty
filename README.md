@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/MasterCruelty/robbot/issues/46) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Opened issue [#46](https://github.com/MasterCruelty/robbot/issues/46) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. ❗️ Opened issue [#45](https://github.com/MasterCruelty/robbot/issues/45) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 💪 Opened PR [#42](https://github.com/kmhmubin/Face-Recognition-Attendance-System/pull/42) in [kmhmubin/Face-Recognition-Attendance-System](https://github.com/kmhmubin/Face-Recognition-Attendance-System)
-5. ❗️ Opened issue [#37](https://github.com/MasterCruelty/my-tg-app/issues/37) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-6. 🎉 Merged PR [#44](https://github.com/MasterCruelty/robbot/pull/44) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#44](https://github.com/MasterCruelty/robbot/pull/44) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Opened issue [#43](https://github.com/MasterCruelty/robbot/issues/43) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#42](https://github.com/MasterCruelty/robbot/pull/42) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗️ Closed issue [#41](https://github.com/MasterCruelty/robbot/issues/41) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 💪 Opened PR [#47](https://github.com/MasterCruelty/robbot/pull/47) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🗣 Commented on [#46](https://github.com/MasterCruelty/robbot/issues/46) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Opened issue [#46](https://github.com/MasterCruelty/robbot/issues/46) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. ❗️ Opened issue [#45](https://github.com/MasterCruelty/robbot/issues/45) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 💪 Opened PR [#42](https://github.com/kmhmubin/Face-Recognition-Attendance-System/pull/42) in [kmhmubin/Face-Recognition-Attendance-System](https://github.com/kmhmubin/Face-Recognition-Attendance-System)
+6. ❗️ Opened issue [#37](https://github.com/MasterCruelty/my-tg-app/issues/37) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+7. 🎉 Merged PR [#44](https://github.com/MasterCruelty/robbot/pull/44) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#44](https://github.com/MasterCruelty/robbot/pull/44) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Opened issue [#43](https://github.com/MasterCruelty/robbot/issues/43) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 🎉 Merged PR [#42](https://github.com/MasterCruelty/robbot/pull/42) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
