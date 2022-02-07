@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/MasterCruelty/robbot/pull/56) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#56](https://github.com/MasterCruelty/robbot/pull/56) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🎉 Merged PR [#55](https://github.com/MasterCruelty/robbot/pull/55) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 💪 Opened PR [#55](https://github.com/MasterCruelty/robbot/pull/55) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 🎉 Merged PR [#54](https://github.com/MasterCruelty/robbot/pull/54) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 💪 Opened PR [#54](https://github.com/MasterCruelty/robbot/pull/54) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Opened issue [#53](https://github.com/MasterCruelty/robbot/issues/53) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Opened issue [#11](https://github.com/IronTony-Stark/Telegram-Happy-Birthday-Bot/issues/11) in [IronTony-Stark/Telegram-Happy-Birthday-Bot](https://github.com/IronTony-Stark/Telegram-Happy-Birthday-Bot)
-9. 🎉 Merged PR [#52](https://github.com/MasterCruelty/robbot/pull/52) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗️ Closed issue [#43](https://github.com/MasterCruelty/robbot/issues/43) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Opened issue [#57](https://github.com/MasterCruelty/robbot/issues/57) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🎉 Merged PR [#56](https://github.com/MasterCruelty/robbot/pull/56) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 💪 Opened PR [#56](https://github.com/MasterCruelty/robbot/pull/56) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🎉 Merged PR [#55](https://github.com/MasterCruelty/robbot/pull/55) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 💪 Opened PR [#55](https://github.com/MasterCruelty/robbot/pull/55) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🎉 Merged PR [#54](https://github.com/MasterCruelty/robbot/pull/54) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 💪 Opened PR [#54](https://github.com/MasterCruelty/robbot/pull/54) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Opened issue [#53](https://github.com/MasterCruelty/robbot/issues/53) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Opened issue [#11](https://github.com/IronTony-Stark/Telegram-Happy-Birthday-Bot/issues/11) in [IronTony-Stark/Telegram-Happy-Birthday-Bot](https://github.com/IronTony-Stark/Telegram-Happy-Birthday-Bot)
+10. 🎉 Merged PR [#52](https://github.com/MasterCruelty/robbot/pull/52) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
