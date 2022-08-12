@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🗣 Commented on [#16](https://github.com/bocong/urbandictionary-py/issues/16) in [bocong/urbandictionary-py](https://github.com/bocong/urbandictionary-py)
-4. ❗️ Opened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. ❗️ Opened issue [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. ❗️ Opened issue [#77](https://github.com/MasterCruelty/robbot/issues/77) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Opened issue [#76](https://github.com/MasterCruelty/robbot/issues/76) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Opened issue [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. ❗️ Opened issue [#74](https://github.com/MasterCruelty/robbot/issues/74) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🎉 Merged PR [#73](https://github.com/MasterCruelty/robbot/pull/73) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🎉 Merged PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 💪 Opened PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🗣 Commented on [#16](https://github.com/bocong/urbandictionary-py/issues/16) in [bocong/urbandictionary-py](https://github.com/bocong/urbandictionary-py)
+6. ❗️ Opened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. ❗️ Opened issue [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. ❗️ Opened issue [#77](https://github.com/MasterCruelty/robbot/issues/77) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Opened issue [#76](https://github.com/MasterCruelty/robbot/issues/76) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗️ Opened issue [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
