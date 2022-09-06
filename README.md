@@ -10,13 +10,13 @@
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🗣 Commented on [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. ❗️ Reopened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🎉 Merged PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 💪 Opened PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🎉 Merged PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#16](https://github.com/bocong/urbandictionary-py/issues/16) in [bocong/urbandictionary-py](https://github.com/bocong/urbandictionary-py)
-9. ❗️ Opened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. ❗️ Opened issue [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🗣 Commented on [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. 🗣 Commented on [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. ❗️ Reopened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🎉 Merged PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 💪 Opened PR [#79](https://github.com/MasterCruelty/robbot/pull/79) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🎉 Merged PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#78](https://github.com/MasterCruelty/robbot/pull/78) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#16](https://github.com/bocong/urbandictionary-py/issues/16) in [bocong/urbandictionary-py](https://github.com/bocong/urbandictionary-py)
+10. ❗️ Opened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
