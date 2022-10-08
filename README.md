@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🎉 Merged PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 💪 Opened PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-5. ❗️ Opened issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-6. ❗️ Opened issue [#80](https://github.com/MasterCruelty/robbot/issues/80) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 🗣 Commented on [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🗣 Commented on [#2](https://github.com/akuma-hatekashi/organized-super-repl/issues/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
+2. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+6. ❗️ Opened issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+7. ❗️ Opened issue [#80](https://github.com/MasterCruelty/robbot/issues/80) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 8. 🗣 Commented on [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-9. 🗣 Commented on [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. ❗️ Reopened issue [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+9. 🗣 Commented on [#92](https://github.com/MasterCruelty/eMerger/issues/92) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🗣 Commented on [#93](https://github.com/MasterCruelty/eMerger/issues/93) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
