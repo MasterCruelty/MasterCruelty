@@ -5,7 +5,7 @@
 
 [![Trophys](https://github-profile-trophy.vercel.app/?username=mastercruelty)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastercruelty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercruelty&exclude_repo=Alarm-project&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercruelty&hide=jupyter%20notebook&exclude_repo=Alarm-project&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
