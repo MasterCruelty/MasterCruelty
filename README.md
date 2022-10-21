@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/MasterCruelty/eMerger/issues/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 💪 Opened PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. 🗣 Commented on [#17](https://github.com/WoeUSB/WoeUSB-ng/issues/17) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
-4. 🗣 Commented on [#2](https://github.com/akuma-hatekashi/organized-super-repl/issues/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
-5. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🎉 Merged PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-9. ❗️ Opened issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-10. ❗️ Opened issue [#80](https://github.com/MasterCruelty/robbot/issues/80) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🎉 Merged PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🗣 Commented on [#94](https://github.com/MasterCruelty/eMerger/issues/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. 💪 Opened PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🗣 Commented on [#17](https://github.com/WoeUSB/WoeUSB-ng/issues/17) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
+5. 🗣 Commented on [#2](https://github.com/akuma-hatekashi/organized-super-repl/issues/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
+6. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🎉 Merged PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+10. ❗️ Opened issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
 <!--END_SECTION:activity-->
