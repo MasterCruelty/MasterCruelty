@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#82](https://github.com/MasterCruelty/robbot/pull/82) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#82](https://github.com/MasterCruelty/robbot/pull/82) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🎉 Merged PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🗣 Commented on [#94](https://github.com/MasterCruelty/eMerger/issues/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. 💪 Opened PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. 🗣 Commented on [#17](https://github.com/WoeUSB/WoeUSB-ng/issues/17) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
-7. 🗣 Commented on [#2](https://github.com/akuma-hatekashi/organized-super-repl/issues/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
-8. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 💪 Opened PR [#81](https://github.com/MasterCruelty/robbot/pull/81) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🎉 Merged PR [#83](https://github.com/MasterCruelty/robbot/pull/83) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 💪 Opened PR [#83](https://github.com/MasterCruelty/robbot/pull/83) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#82](https://github.com/MasterCruelty/robbot/pull/82) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#82](https://github.com/MasterCruelty/robbot/pull/82) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🎉 Merged PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🗣 Commented on [#94](https://github.com/MasterCruelty/eMerger/issues/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. 💪 Opened PR [#94](https://github.com/MasterCruelty/eMerger/pull/94) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. 🗣 Commented on [#17](https://github.com/WoeUSB/WoeUSB-ng/issues/17) in [WoeUSB/WoeUSB-ng](https://github.com/WoeUSB/WoeUSB-ng)
+9. 🗣 Commented on [#2](https://github.com/akuma-hatekashi/organized-super-repl/issues/2) in [akuma-hatekashi/organized-super-repl](https://github.com/akuma-hatekashi/organized-super-repl)
+10. 🗣 Commented on [#15](https://github.com/MasterCruelty/robbot/issues/15) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
