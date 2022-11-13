@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. ❗️ Opened issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. ❗️ Closed issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-5. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-6. 🎉 Merged PR [#91](https://github.com/MasterCruelty/robbot/pull/91) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#91](https://github.com/MasterCruelty/robbot/pull/91) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Opened issue [#1](https://github.com/andreagiodi/ProgettoTrasportiMilano/issues/1) in [andreagiodi/ProgettoTrasportiMilano](https://github.com/andreagiodi/ProgettoTrasportiMilano)
-9. 🗣 Commented on [#51](https://github.com/MasterCruelty/robbot/issues/51) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗️ Closed issue [#88](https://github.com/MasterCruelty/robbot/issues/88) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🎉 Merged PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 💪 Opened PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. ❗️ Opened issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. ❗️ Closed issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+7. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+8. 🎉 Merged PR [#91](https://github.com/MasterCruelty/robbot/pull/91) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 💪 Opened PR [#91](https://github.com/MasterCruelty/robbot/pull/91) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗️ Opened issue [#1](https://github.com/andreagiodi/ProgettoTrasportiMilano/issues/1) in [andreagiodi/ProgettoTrasportiMilano](https://github.com/andreagiodi/ProgettoTrasportiMilano)
 <!--END_SECTION:activity-->
