@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/MasterCruelty/robbot/pull/96) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#96](https://github.com/MasterCruelty/robbot/pull/96) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🎉 Merged PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 💪 Opened PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 🎉 Merged PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 💪 Opened PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Opened issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Closed issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-9. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
-10. 🎉 Merged PR [#91](https://github.com/MasterCruelty/robbot/pull/91) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🗣 Commented on [#76](https://github.com/MasterCruelty/robbot/issues/76) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🎉 Merged PR [#96](https://github.com/MasterCruelty/robbot/pull/96) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 💪 Opened PR [#96](https://github.com/MasterCruelty/robbot/pull/96) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🎉 Merged PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 💪 Opened PR [#95](https://github.com/MasterCruelty/robbot/pull/95) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🎉 Merged PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 💪 Opened PR [#93](https://github.com/MasterCruelty/robbot/pull/93) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Opened issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Closed issue [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
+10. 🗣 Commented on [#89](https://github.com/acifani/aspettami-bot/issues/89) in [acifani/aspettami-bot](https://github.com/acifani/aspettami-bot)
 <!--END_SECTION:activity-->
