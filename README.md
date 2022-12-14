@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🎉 Merged PR [#99](https://github.com/MasterCruelty/robbot/pull/99) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 💪 Opened PR [#99](https://github.com/MasterCruelty/robbot/pull/99) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. ❌ Reopened PR [#1](https://github.com/gi-lom/non-un-altro-sciopero/pull/1) in [gi-lom/non-un-altro-sciopero](https://github.com/gi-lom/non-un-altro-sciopero)
-5. ❌ Closed PR [#1](https://github.com/gi-lom/non-un-altro-sciopero/pull/1) in [gi-lom/non-un-altro-sciopero](https://github.com/gi-lom/non-un-altro-sciopero)
-6. 🗣 Commented on [#95](https://github.com/MasterCruelty/eMerger/issues/95) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. 🗣 Commented on [#49](https://github.com/MasterCruelty/robbot/issues/49) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Closed issue [#49](https://github.com/MasterCruelty/robbot/issues/49) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#98](https://github.com/MasterCruelty/robbot/pull/98) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 💪 Opened PR [#98](https://github.com/MasterCruelty/robbot/pull/98) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Closed issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🗣 Commented on [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Opened issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. ❗️ Closed issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 🎉 Merged PR [#99](https://github.com/MasterCruelty/robbot/pull/99) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 💪 Opened PR [#99](https://github.com/MasterCruelty/robbot/pull/99) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. ❌ Reopened PR [#1](https://github.com/gi-lom/non-un-altro-sciopero/pull/1) in [gi-lom/non-un-altro-sciopero](https://github.com/gi-lom/non-un-altro-sciopero)
+8. ❌ Closed PR [#1](https://github.com/gi-lom/non-un-altro-sciopero/pull/1) in [gi-lom/non-un-altro-sciopero](https://github.com/gi-lom/non-un-altro-sciopero)
+9. 🗣 Commented on [#95](https://github.com/MasterCruelty/eMerger/issues/95) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🗣 Commented on [#49](https://github.com/MasterCruelty/robbot/issues/49) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
