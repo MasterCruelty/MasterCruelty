@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/johnstennett24/HaloMiniGame/issues/1) in [johnstennett24/HaloMiniGame](https://github.com/johnstennett24/HaloMiniGame)
-2. ❗️ Opened issue [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
-3. ❗️ Opened issue [#96](https://github.com/MasterCruelty/eMerger/issues/96) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🗣 Commented on [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. ❗️ Opened issue [#101](https://github.com/MasterCruelty/robbot/issues/101) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🗣 Commented on [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Closed issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. ❗️ Opened issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗️ Closed issue [#92](https://github.com/MasterCruelty/robbot/issues/92) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Opened issue [#7](https://github.com/mindstorm8191/OpenSpaceGame/issues/7) in [mindstorm8191/OpenSpaceGame](https://github.com/mindstorm8191/OpenSpaceGame)
+2. ❗️ Opened issue [#1](https://github.com/johnstennett24/HaloMiniGame/issues/1) in [johnstennett24/HaloMiniGame](https://github.com/johnstennett24/HaloMiniGame)
+3. ❗️ Opened issue [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
+4. ❗️ Opened issue [#96](https://github.com/MasterCruelty/eMerger/issues/96) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🗣 Commented on [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. ❗️ Opened issue [#101](https://github.com/MasterCruelty/robbot/issues/101) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🗣 Commented on [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Closed issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗️ Opened issue [#100](https://github.com/MasterCruelty/robbot/issues/100) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
