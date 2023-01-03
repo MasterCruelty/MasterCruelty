@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Closed issue [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
-3. 🗣 Commented on [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
-4. ❗️ Opened issue [#105](https://github.com/MasterCruelty/robbot/issues/105) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. ❌ Reopened PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
-6. ❌ Closed PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
-7. 💪 Opened PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
-8. ❗️ Opened issue [#104](https://github.com/MasterCruelty/robbot/issues/104) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. ❗️ Closed issue [#102](https://github.com/MasterCruelty/robbot/issues/102) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🎉 Merged PR [#103](https://github.com/MasterCruelty/robbot/pull/103) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Closed issue [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. ❗️ Closed issue [#53](https://github.com/MasterCruelty/robbot/issues/53) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. ❗️ Closed issue [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
+6. 🗣 Commented on [#152](https://github.com/olosinno/Halo_Mythic_3dot5/issues/152) in [olosinno/Halo_Mythic_3dot5](https://github.com/olosinno/Halo_Mythic_3dot5)
+7. ❗️ Opened issue [#105](https://github.com/MasterCruelty/robbot/issues/105) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❌ Reopened PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
+9. ❌ Closed PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
+10. 💪 Opened PR [#35](https://github.com/Rolstenhouse/unofficial-apis/pull/35) in [Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis)
 <!--END_SECTION:activity-->
