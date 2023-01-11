@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#110](https://github.com/MasterCruelty/robbot/issues/110) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Closed issue [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🗣 Commented on [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. ❗️ Opened issue [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 🗣 Commented on [#1](https://github.com/johnstennett24/HaloMiniGame/issues/1) in [johnstennett24/HaloMiniGame](https://github.com/johnstennett24/HaloMiniGame)
-6. ❗️ Opened issue [#108](https://github.com/MasterCruelty/robbot/issues/108) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. ❗️ Closed issue [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. ❗️ Closed issue [#53](https://github.com/MasterCruelty/robbot/issues/53) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 💪 Opened PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗️ Opened issue [#111](https://github.com/MasterCruelty/robbot/issues/111) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. ❗️ Opened issue [#110](https://github.com/MasterCruelty/robbot/issues/110) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Closed issue [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🗣 Commented on [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. ❗️ Opened issue [#109](https://github.com/MasterCruelty/robbot/issues/109) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🗣 Commented on [#1](https://github.com/johnstennett24/HaloMiniGame/issues/1) in [johnstennett24/HaloMiniGame](https://github.com/johnstennett24/HaloMiniGame)
+7. ❗️ Opened issue [#108](https://github.com/MasterCruelty/robbot/issues/108) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗️ Closed issue [#75](https://github.com/MasterCruelty/robbot/issues/75) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. ❗️ Closed issue [#53](https://github.com/MasterCruelty/robbot/issues/53) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 🎉 Merged PR [#106](https://github.com/MasterCruelty/robbot/pull/106) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
