@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/MasterCruelty/robbot/pull/126) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. ❗️ Closed issue [#125](https://github.com/MasterCruelty/robbot/issues/125) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 💪 Opened PR [#126](https://github.com/MasterCruelty/robbot/pull/126) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🗣 Commented on [#1492](https://github.com/pytube/pytube/issues/1492) in [pytube/pytube](https://github.com/pytube/pytube)
+1. 🗣 Commented on [#87](https://github.com/MasterCruelty/robbot/issues/87) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🎉 Merged PR [#126](https://github.com/MasterCruelty/robbot/pull/126) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗️ Closed issue [#125](https://github.com/MasterCruelty/robbot/issues/125) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 💪 Opened PR [#126](https://github.com/MasterCruelty/robbot/pull/126) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 5. 🗣 Commented on [#1492](https://github.com/pytube/pytube/issues/1492) in [pytube/pytube](https://github.com/pytube/pytube)
-6. ❗️ Opened issue [#125](https://github.com/MasterCruelty/robbot/issues/125) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 🎉 Merged PR [#124](https://github.com/MasterCruelty/robbot/pull/124) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 💪 Opened PR [#124](https://github.com/MasterCruelty/robbot/pull/124) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#123](https://github.com/MasterCruelty/robbot/pull/123) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 💪 Opened PR [#123](https://github.com/MasterCruelty/robbot/pull/123) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🗣 Commented on [#1492](https://github.com/pytube/pytube/issues/1492) in [pytube/pytube](https://github.com/pytube/pytube)
+7. ❗️ Opened issue [#125](https://github.com/MasterCruelty/robbot/issues/125) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 🎉 Merged PR [#124](https://github.com/MasterCruelty/robbot/pull/124) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 💪 Opened PR [#124](https://github.com/MasterCruelty/robbot/pull/124) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 🎉 Merged PR [#123](https://github.com/MasterCruelty/robbot/pull/123) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
