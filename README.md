@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#139](https://github.com/MasterCruelty/robbot/issues/139) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🗣 Commented on [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. 🗣 Commented on [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. ❗ Opened issue [#138](https://github.com/MasterCruelty/robbot/issues/138) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 🗣 Commented on [#136](https://github.com/MasterCruelty/robbot/issues/136) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ❗ Opened issue [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. 🗣 Commented on [#1569](https://github.com/pytube/pytube/issues/1569) in [pytube/pytube](https://github.com/pytube/pytube)
-8. ❗ Opened issue [#137](https://github.com/MasterCruelty/robbot/issues/137) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🗣 Commented on [#140](https://github.com/MasterCruelty/robbot/issues/140) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. ❗ Opened issue [#140](https://github.com/MasterCruelty/robbot/issues/140) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. ❗ Opened issue [#139](https://github.com/MasterCruelty/robbot/issues/139) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🗣 Commented on [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🗣 Commented on [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. ❗ Opened issue [#138](https://github.com/MasterCruelty/robbot/issues/138) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🗣 Commented on [#136](https://github.com/MasterCruelty/robbot/issues/136) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. ❗ Opened issue [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 9. 🗣 Commented on [#1569](https://github.com/pytube/pytube/issues/1569) in [pytube/pytube](https://github.com/pytube/pytube)
-10. 🗣 Commented on [#129](https://github.com/MasterCruelty/robbot/issues/129) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗ Opened issue [#137](https://github.com/MasterCruelty/robbot/issues/137) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
