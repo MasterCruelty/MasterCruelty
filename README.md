@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/MasterCruelty/robbot/issues/87#issuecomment-1705414524) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🗣 Commented on [#1684](https://github.com/pytube/pytube/issues/1684#issuecomment-1609080898) in [pytube/pytube](https://github.com/pytube/pytube)
-3. 🎉 Merged PR [#142](https://github.com/MasterCruelty/robbot/pull/142) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 💪 Opened PR [#142](https://github.com/MasterCruelty/robbot/pull/142) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 🔒 Closed issue [#139](https://github.com/MasterCruelty/robbot/issues/139) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🔒 Closed issue [#130](https://github.com/MasterCruelty/robbot/issues/130) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 🎉 Merged PR [#141](https://github.com/MasterCruelty/robbot/pull/141) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 💪 Opened PR [#141](https://github.com/MasterCruelty/robbot/pull/141) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. ❗ Opened issue [#2](https://github.com/MasterCruelty/tg-bot-skeleton/issues/2) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-10. ❗ Opened issue [#1](https://github.com/MasterCruelty/tg-bot-skeleton/issues/1) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
+1. 🔒 Closed issue [#72](https://github.com/MasterCruelty/robbot/issues/72) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🗣 Commented on [#72](https://github.com/MasterCruelty/robbot/issues/72#issuecomment-1712820051) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🗣 Commented on [#87](https://github.com/MasterCruelty/robbot/issues/87#issuecomment-1705414524) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🗣 Commented on [#1684](https://github.com/pytube/pytube/issues/1684#issuecomment-1609080898) in [pytube/pytube](https://github.com/pytube/pytube)
+5. 🎉 Merged PR [#142](https://github.com/MasterCruelty/robbot/pull/142) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 💪 Opened PR [#142](https://github.com/MasterCruelty/robbot/pull/142) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🔒 Closed issue [#139](https://github.com/MasterCruelty/robbot/issues/139) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 🔒 Closed issue [#130](https://github.com/MasterCruelty/robbot/issues/130) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🎉 Merged PR [#141](https://github.com/MasterCruelty/robbot/pull/141) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 💪 Opened PR [#141](https://github.com/MasterCruelty/robbot/pull/141) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
