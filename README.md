@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#153](https://github.com/MasterCruelty/robbot/issues/153) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 💪 Opened PR [#152](https://github.com/MasterCruelty/robbot/pull/152) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🔒 Closed issue [#148](https://github.com/MasterCruelty/robbot/issues/148) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🎉 Merged PR [#151](https://github.com/MasterCruelty/robbot/pull/151) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. 💪 Opened PR [#151](https://github.com/MasterCruelty/robbot/pull/151) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. 🎉 Merged PR [#106](https://github.com/MasterCruelty/eMerger/pull/106) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. 🎉 Merged PR [#150](https://github.com/MasterCruelty/robbot/pull/150) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 💪 Opened PR [#150](https://github.com/MasterCruelty/robbot/pull/150) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🗣 Commented on [#106](https://github.com/MasterCruelty/eMerger/pull/106#issuecomment-1781872118) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. 🔒 Closed issue [#147](https://github.com/MasterCruelty/robbot/issues/147) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🔒 Closed issue [#153](https://github.com/MasterCruelty/robbot/issues/153) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🔒 Closed issue [#138](https://github.com/MasterCruelty/robbot/issues/138) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🎉 Merged PR [#152](https://github.com/MasterCruelty/robbot/pull/152) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. ❗ Opened issue [#153](https://github.com/MasterCruelty/robbot/issues/153) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 💪 Opened PR [#152](https://github.com/MasterCruelty/robbot/pull/152) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🔒 Closed issue [#148](https://github.com/MasterCruelty/robbot/issues/148) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🎉 Merged PR [#151](https://github.com/MasterCruelty/robbot/pull/151) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#151](https://github.com/MasterCruelty/robbot/pull/151) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🎉 Merged PR [#106](https://github.com/MasterCruelty/eMerger/pull/106) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🎉 Merged PR [#150](https://github.com/MasterCruelty/robbot/pull/150) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
