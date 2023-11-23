@@ -9,14 +9,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/MasterCruelty/robbot/issues/87#issuecomment-1819917402) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🎉 Merged PR [#1](https://github.com/MasterCruelty/gokart-data-hub/pull/1) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-3. 💪 Opened PR [#1](https://github.com/MasterCruelty/gokart-data-hub/pull/1) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-4. ❗ Opened issue [#3](https://github.com/MasterCruelty/MetroFlowRouter/issues/3) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-5. ❗ Opened issue [#2](https://github.com/MasterCruelty/MetroFlowRouter/issues/2) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-6. 🎉 Merged PR [#1](https://github.com/MasterCruelty/MetroFlowRouter/pull/1) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-7. 💪 Opened PR [#1](https://github.com/MasterCruelty/MetroFlowRouter/pull/1) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-8. 🚀 Published release [v2.3.0 RobBot Improved](https://github.com/MasterCruelty/robbot/releases/tag/v2.3.0) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🎉 Merged PR [#155](https://github.com/MasterCruelty/robbot/pull/155) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 💪 Opened PR [#155](https://github.com/MasterCruelty/robbot/pull/155) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🔒 Closed issue [#71](https://github.com/MasterCruelty/eMerger/issues/71) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🎉 Merged PR [#104](https://github.com/MasterCruelty/eMerger/pull/104) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. 🗣 Commented on [#87](https://github.com/MasterCruelty/robbot/issues/87#issuecomment-1819917402) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🎉 Merged PR [#1](https://github.com/MasterCruelty/gokart-data-hub/pull/1) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+5. 💪 Opened PR [#1](https://github.com/MasterCruelty/gokart-data-hub/pull/1) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+6. ❗ Opened issue [#3](https://github.com/MasterCruelty/MetroFlowRouter/issues/3) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+7. ❗ Opened issue [#2](https://github.com/MasterCruelty/MetroFlowRouter/issues/2) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+8. 🎉 Merged PR [#1](https://github.com/MasterCruelty/MetroFlowRouter/pull/1) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+9. 💪 Opened PR [#1](https://github.com/MasterCruelty/MetroFlowRouter/pull/1) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+10. 🚀 Published release [v2.3.0 RobBot Improved](https://github.com/MasterCruelty/robbot/releases/tag/v2.3.0) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
