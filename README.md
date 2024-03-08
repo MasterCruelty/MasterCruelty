@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/MasterCruelty/MetroFlowRouter/pull/8) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-2. 💪 Opened PR [#8](https://github.com/MasterCruelty/MetroFlowRouter/pull/8) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
-3. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-1982066990) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-4. 🔒 Closed issue [#9](https://github.com/MasterCruelty/gokart-data-hub/issues/9) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-5. 🎉 Merged PR [#10](https://github.com/MasterCruelty/gokart-data-hub/pull/10) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-6. 💪 Opened PR [#10](https://github.com/MasterCruelty/gokart-data-hub/pull/10) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-7. 🗣 Commented on [#108](https://github.com/MasterCruelty/eMerger/pull/108#issuecomment-1977588738) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-8. 🎉 Merged PR [#108](https://github.com/MasterCruelty/eMerger/pull/108) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-9. ❗ Opened issue [#9](https://github.com/MasterCruelty/gokart-data-hub/issues/9) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-10. ❗ Opened issue [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+1. ❗ Opened issue [#111](https://github.com/TheMergers/eMerger/issues/111) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
+2. 🗣 Commented on [#80](https://github.com/TheMergers/eMerger/issues/80#issuecomment-1986493280) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
+3. ❗ Opened issue [#110](https://github.com/TheMergers/eMerger/issues/110) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
+4. 🚀 Published release [v1.0.5 eMerger](https://github.com/TheMergers/eMerger/releases/tag/v1.0.5) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
+5. 🎉 Merged PR [#8](https://github.com/MasterCruelty/MetroFlowRouter/pull/8) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+6. 💪 Opened PR [#8](https://github.com/MasterCruelty/MetroFlowRouter/pull/8) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+7. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-1982066990) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+8. 🔒 Closed issue [#9](https://github.com/MasterCruelty/gokart-data-hub/issues/9) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+9. 🎉 Merged PR [#10](https://github.com/MasterCruelty/gokart-data-hub/pull/10) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+10. 💪 Opened PR [#10](https://github.com/MasterCruelty/gokart-data-hub/pull/10) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
 <!--END_SECTION:activity-->
