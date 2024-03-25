@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-2016966712) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-2. 🔒 Closed issue [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-3. 🔒 Closed issue [#6](https://github.com/MasterCruelty/gokart-data-hub/issues/6) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-4. 🎉 Merged PR [#13](https://github.com/MasterCruelty/gokart-data-hub/pull/13) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-5. 💪 Opened PR [#13](https://github.com/MasterCruelty/gokart-data-hub/pull/13) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-6. 🎉 Merged PR [#167](https://github.com/MasterCruelty/robbot/pull/167) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#167](https://github.com/MasterCruelty/robbot/pull/167) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#114](https://github.com/MasterCruelty/robbot/issues/114#issuecomment-2016589711) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🔒 Closed issue [#114](https://github.com/MasterCruelty/robbot/issues/114) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🗣 Commented on [#101](https://github.com/MasterCruelty/robbot/issues/101#issuecomment-2016582508) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. ❗ Opened issue [#14](https://github.com/MasterCruelty/gokart-data-hub/issues/14) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+2. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-2016966712) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+3. 🔒 Closed issue [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+4. 🔒 Closed issue [#6](https://github.com/MasterCruelty/gokart-data-hub/issues/6) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+5. 🎉 Merged PR [#13](https://github.com/MasterCruelty/gokart-data-hub/pull/13) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+6. 💪 Opened PR [#13](https://github.com/MasterCruelty/gokart-data-hub/pull/13) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+7. 🎉 Merged PR [#167](https://github.com/MasterCruelty/robbot/pull/167) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#167](https://github.com/MasterCruelty/robbot/pull/167) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#114](https://github.com/MasterCruelty/robbot/issues/114#issuecomment-2016589711) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 🔒 Closed issue [#114](https://github.com/MasterCruelty/robbot/issues/114) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
