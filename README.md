@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/MasterCruelty/TelegramChatInsights/issues/4) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-2. ❗ Opened issue [#3](https://github.com/MasterCruelty/TelegramChatInsights/issues/3) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-3. ❗ Opened issue [#2](https://github.com/MasterCruelty/TelegramChatInsights/issues/2) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-4. 💪 Opened PR [#1](https://github.com/MasterCruelty/TelegramChatInsights/pull/1) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-5. ❗ Opened issue [#1](https://github.com/MasterCruelty/my-vim-settings/issues/1) in [MasterCruelty/my-vim-settings](https://github.com/MasterCruelty/my-vim-settings)
-6. ❗ Opened issue [#14](https://github.com/MasterCruelty/gokart-data-hub/issues/14) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-7. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-2016966712) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-8. 🔒 Closed issue [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-9. 🔒 Closed issue [#6](https://github.com/MasterCruelty/gokart-data-hub/issues/6) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
-10. 🎉 Merged PR [#13](https://github.com/MasterCruelty/gokart-data-hub/pull/13) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+1. ❗ Opened issue [#9](https://github.com/MasterCruelty/mastercruelty.github.io/issues/9) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+2. ❗ Opened issue [#5](https://github.com/MasterCruelty/TelegramChatInsights/issues/5) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+3. ❗ Opened issue [#4](https://github.com/MasterCruelty/TelegramChatInsights/issues/4) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+4. ❗ Opened issue [#3](https://github.com/MasterCruelty/TelegramChatInsights/issues/3) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+5. ❗ Opened issue [#2](https://github.com/MasterCruelty/TelegramChatInsights/issues/2) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+6. 💪 Opened PR [#1](https://github.com/MasterCruelty/TelegramChatInsights/pull/1) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+7. ❗ Opened issue [#1](https://github.com/MasterCruelty/my-vim-settings/issues/1) in [MasterCruelty/my-vim-settings](https://github.com/MasterCruelty/my-vim-settings)
+8. ❗ Opened issue [#14](https://github.com/MasterCruelty/gokart-data-hub/issues/14) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+9. 🗣 Commented on [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8#issuecomment-2016966712) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+10. 🔒 Closed issue [#8](https://github.com/MasterCruelty/gokart-data-hub/issues/8) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
 <!--END_SECTION:activity-->
