@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#159](https://github.com/MasterCruelty/robbot/issues/159#issuecomment-2038126008) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🔒 Closed issue [#159](https://github.com/MasterCruelty/robbot/issues/159) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-3. 🗣 Commented on [#114](https://github.com/MasterCruelty/robbot/issues/114#issuecomment-2038125292) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-4. 🔓 Reopened issue [#114](https://github.com/MasterCruelty/robbot/issues/114) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-5. ❗ Opened issue [#2](https://github.com/colonelsalt/ZombieDeathBoomECS/issues/2) in [colonelsalt/ZombieDeathBoomECS](https://github.com/colonelsalt/ZombieDeathBoomECS)
-6. ❗ Opened issue [#9](https://github.com/MasterCruelty/mastercruelty.github.io/issues/9) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-7. ❗ Opened issue [#5](https://github.com/MasterCruelty/TelegramChatInsights/issues/5) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-8. ❗ Opened issue [#4](https://github.com/MasterCruelty/TelegramChatInsights/issues/4) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-9. ❗ Opened issue [#3](https://github.com/MasterCruelty/TelegramChatInsights/issues/3) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-10. ❗ Opened issue [#2](https://github.com/MasterCruelty/TelegramChatInsights/issues/2) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+1. ❗ Opened issue [#170](https://github.com/MasterCruelty/robbot/issues/170) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+2. 🚀 Published release [v2.5.0 RobBot Improved](https://github.com/MasterCruelty/robbot/releases/tag/v2.5.0) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+3. 🔒 Closed issue [#114](https://github.com/MasterCruelty/robbot/issues/114) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+4. 🎉 Merged PR [#168](https://github.com/MasterCruelty/robbot/pull/168) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+5. 💪 Opened PR [#168](https://github.com/MasterCruelty/robbot/pull/168) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+6. 🗣 Commented on [#159](https://github.com/MasterCruelty/robbot/issues/159#issuecomment-2038126008) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+7. 🔒 Closed issue [#159](https://github.com/MasterCruelty/robbot/issues/159) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 🗣 Commented on [#114](https://github.com/MasterCruelty/robbot/issues/114#issuecomment-2038125292) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🔓 Reopened issue [#114](https://github.com/MasterCruelty/robbot/issues/114) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. ❗ Opened issue [#2](https://github.com/colonelsalt/ZombieDeathBoomECS/issues/2) in [colonelsalt/ZombieDeathBoomECS](https://github.com/colonelsalt/ZombieDeathBoomECS)
 <!--END_SECTION:activity-->
