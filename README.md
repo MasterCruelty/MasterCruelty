@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/MasterCruelty/TelegramChatInsights/issues/6) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-2. 🔒 Closed issue [#5](https://github.com/MasterCruelty/TelegramChatInsights/issues/5) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-3. 🔒 Closed issue [#4](https://github.com/MasterCruelty/TelegramChatInsights/issues/4) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-4. 🔒 Closed issue [#3](https://github.com/MasterCruelty/TelegramChatInsights/issues/3) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-5. 🎉 Merged PR [#1](https://github.com/MasterCruelty/TelegramChatInsights/pull/1) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-6. 🎉 Merged PR [#171](https://github.com/MasterCruelty/robbot/pull/171) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#171](https://github.com/MasterCruelty/robbot/pull/171) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#105](https://github.com/MasterCruelty/robbot/issues/105#issuecomment-2041476757) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🗣 Commented on [#105](https://github.com/MasterCruelty/robbot/issues/105#issuecomment-2041475764) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. ❗ Opened issue [#6](https://github.com/MasterCruelty/TelegramChatInsights/issues/6) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+1. ❗ Opened issue [#7](https://github.com/MasterCruelty/TelegramChatInsights/issues/7) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+2. 🔒 Closed issue [#6](https://github.com/MasterCruelty/TelegramChatInsights/issues/6) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+3. 🔒 Closed issue [#5](https://github.com/MasterCruelty/TelegramChatInsights/issues/5) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+4. 🔒 Closed issue [#4](https://github.com/MasterCruelty/TelegramChatInsights/issues/4) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+5. 🔒 Closed issue [#3](https://github.com/MasterCruelty/TelegramChatInsights/issues/3) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+6. 🎉 Merged PR [#1](https://github.com/MasterCruelty/TelegramChatInsights/pull/1) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+7. 🎉 Merged PR [#171](https://github.com/MasterCruelty/robbot/pull/171) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+8. 💪 Opened PR [#171](https://github.com/MasterCruelty/robbot/pull/171) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+9. 🗣 Commented on [#105](https://github.com/MasterCruelty/robbot/issues/105#issuecomment-2041476757) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+10. 🗣 Commented on [#105](https://github.com/MasterCruelty/robbot/issues/105#issuecomment-2041475764) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 <!--END_SECTION:activity-->
