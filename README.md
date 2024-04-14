@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/MasterCruelty/TelegramChatInsights/issues/13) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-2. ❗ Opened issue [#12](https://github.com/MasterCruelty/TelegramChatInsights/issues/12) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-3. 🔒 Closed issue [#10](https://github.com/MasterCruelty/TelegramChatInsights/issues/10) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-4. 🔒 Closed issue [#7](https://github.com/MasterCruelty/TelegramChatInsights/issues/7) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-5. 🎉 Merged PR [#11](https://github.com/MasterCruelty/TelegramChatInsights/pull/11) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-6. 💪 Opened PR [#11](https://github.com/MasterCruelty/TelegramChatInsights/pull/11) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-7. ❗ Opened issue [#10](https://github.com/MasterCruelty/TelegramChatInsights/issues/10) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-8. 🔒 Closed issue [#8](https://github.com/MasterCruelty/TelegramChatInsights/issues/8) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-9. 🎉 Merged PR [#9](https://github.com/MasterCruelty/TelegramChatInsights/pull/9) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-10. 💪 Opened PR [#9](https://github.com/MasterCruelty/TelegramChatInsights/pull/9) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+1. 🎉 Merged PR [#14](https://github.com/MasterCruelty/TelegramChatInsights/pull/14) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+2. 🔒 Closed issue [#12](https://github.com/MasterCruelty/TelegramChatInsights/issues/12) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+3. 💪 Opened PR [#14](https://github.com/MasterCruelty/TelegramChatInsights/pull/14) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+4. ❗ Opened issue [#13](https://github.com/MasterCruelty/TelegramChatInsights/issues/13) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+5. ❗ Opened issue [#12](https://github.com/MasterCruelty/TelegramChatInsights/issues/12) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+6. 🔒 Closed issue [#10](https://github.com/MasterCruelty/TelegramChatInsights/issues/10) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+7. 🔒 Closed issue [#7](https://github.com/MasterCruelty/TelegramChatInsights/issues/7) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+8. 🎉 Merged PR [#11](https://github.com/MasterCruelty/TelegramChatInsights/pull/11) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+9. 💪 Opened PR [#11](https://github.com/MasterCruelty/TelegramChatInsights/pull/11) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+10. ❗ Opened issue [#10](https://github.com/MasterCruelty/TelegramChatInsights/issues/10) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
 <!--END_SECTION:activity-->
