@@ -10,14 +10,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#17](https://github.com/MasterCruelty/TelegramChatInsights/issues/17) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-2. 🎉 Merged PR [#18](https://github.com/MasterCruelty/TelegramChatInsights/pull/18) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-3. 💪 Opened PR [#18](https://github.com/MasterCruelty/TelegramChatInsights/pull/18) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-4. ❗ Opened issue [#17](https://github.com/MasterCruelty/TelegramChatInsights/issues/17) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-5. ❗ Opened issue [#39](https://github.com/MasterCruelty/my-tg-app/issues/39) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
-6. ❗ Opened issue [#16](https://github.com/MasterCruelty/TelegramChatInsights/issues/16) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-7. ❗ Opened issue [#115](https://github.com/TheMergers/eMerger/issues/115) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
-8. 💪 Opened PR [#113](https://github.com/TheMergers/eMerger/pull/113) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
-9. ❗ Opened issue [#15](https://github.com/MasterCruelty/TelegramChatInsights/issues/15) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
-10. 🎉 Merged PR [#14](https://github.com/MasterCruelty/TelegramChatInsights/pull/14) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+1. 🔒 Closed issue [#39](https://github.com/MasterCruelty/my-tg-app/issues/39) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+2. 🎉 Merged PR [#40](https://github.com/MasterCruelty/my-tg-app/pull/40) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+3. 💪 Opened PR [#40](https://github.com/MasterCruelty/my-tg-app/pull/40) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+4. 🔒 Closed issue [#17](https://github.com/MasterCruelty/TelegramChatInsights/issues/17) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+5. 🎉 Merged PR [#18](https://github.com/MasterCruelty/TelegramChatInsights/pull/18) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+6. 💪 Opened PR [#18](https://github.com/MasterCruelty/TelegramChatInsights/pull/18) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+7. ❗ Opened issue [#17](https://github.com/MasterCruelty/TelegramChatInsights/issues/17) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+8. ❗ Opened issue [#39](https://github.com/MasterCruelty/my-tg-app/issues/39) in [MasterCruelty/my-tg-app](https://github.com/MasterCruelty/my-tg-app)
+9. ❗ Opened issue [#16](https://github.com/MasterCruelty/TelegramChatInsights/issues/16) in [MasterCruelty/TelegramChatInsights](https://github.com/MasterCruelty/TelegramChatInsights)
+10. ❗ Opened issue [#115](https://github.com/TheMergers/eMerger/issues/115) in [TheMergers/eMerger](https://github.com/TheMergers/eMerger)
 <!--END_SECTION:activity-->
