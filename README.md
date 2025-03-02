@@ -10,8 +10,8 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.6.0 RobBot Improved](https://github.com/MasterCruelty/robbot/releases/tag/v2.6.0) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-2. 🗣 Commented on [#176](https://github.com/MasterCruelty/robbot/issues/176#issuecomment-2564125263) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🗣 Commented on [#114](https://github.com/MasterCruelty/eMerger/pull/114#issuecomment-2692874291) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. ❌ Closed PR [#114](https://github.com/MasterCruelty/eMerger/pull/114) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 3. 🔒 Closed issue [#176](https://github.com/MasterCruelty/robbot/issues/176) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 4. 🔒 Closed issue [#175](https://github.com/MasterCruelty/robbot/issues/175) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 5. 🔒 Closed issue [#175](https://github.com/MasterCruelty/robbot/issues/175) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
