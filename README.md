@@ -10,8 +10,8 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/MasterCruelty/eMerger/pull/114#issuecomment-2692874291) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. ❌ Closed PR [#114](https://github.com/MasterCruelty/eMerger/pull/114) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🎉 Merged PR [#19](https://github.com/MasterCruelty/gokart-data-hub/pull/19) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
+2. 💪 Opened PR [#19](https://github.com/MasterCruelty/gokart-data-hub/pull/19) in [MasterCruelty/gokart-data-hub](https://github.com/MasterCruelty/gokart-data-hub)
 3. 🔒 Closed issue [#176](https://github.com/MasterCruelty/robbot/issues/176) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 4. 🔒 Closed issue [#175](https://github.com/MasterCruelty/robbot/issues/175) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 5. 🔒 Closed issue [#175](https://github.com/MasterCruelty/robbot/issues/175) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
