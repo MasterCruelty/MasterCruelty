@@ -13,14 +13,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4](https://github.com/MasterCruelty/tg-bot-skeleton/issues/4) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-2. ℹ️ Labeled issue [#4](https://github.com/MasterCruelty/tg-bot-skeleton/issues/4) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-3. ℹ️ Labeled issue [#4](https://github.com/MasterCruelty/tg-bot-skeleton/issues/4) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-4. ℹ️ Assigned issue [#4](https://github.com/MasterCruelty/tg-bot-skeleton/issues/4) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-5. ❗ Opened issue [#4](https://github.com/MasterCruelty/tg-bot-skeleton/issues/4) in [MasterCruelty/tg-bot-skeleton](https://github.com/MasterCruelty/tg-bot-skeleton)
-6. 🎉 Merged PR [#177](https://github.com/MasterCruelty/robbot/pull/177) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-7. 💪 Opened PR [#177](https://github.com/MasterCruelty/robbot/pull/177) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-8. 🗣 Commented on [#176](https://github.com/MasterCruelty/robbot/issues/176#issuecomment-2560457565) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-9. 🗣 Commented on [#174](https://github.com/MasterCruelty/robbot/issues/174#issuecomment-2560427617) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-10. 🔒 Closed issue [#174](https://github.com/MasterCruelty/robbot/issues/174) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🔒 Closed issue [#116](https://github.com/MasterCruelty/eMerger/issues/116) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. 🔒 Closed issue [#118](https://github.com/MasterCruelty/eMerger/issues/118) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. 🔒 Closed issue [#115](https://github.com/MasterCruelty/eMerger/issues/115) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🔒 Closed issue [#95](https://github.com/MasterCruelty/eMerger/issues/95) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🔒 Closed issue [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. 🔒 Closed issue [#111](https://github.com/MasterCruelty/eMerger/issues/111) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. 🔒 Closed issue [#85](https://github.com/MasterCruelty/eMerger/issues/85) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. ℹ️ Labeled PR [#119](https://github.com/MasterCruelty/eMerger/pull/119) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+9. ℹ️ Labeled PR [#119](https://github.com/MasterCruelty/eMerger/pull/119) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. ℹ️ Labeled PR [#119](https://github.com/MasterCruelty/eMerger/pull/119) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
