@@ -13,14 +13,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0 eMerger](https://github.com/MasterCruelty/eMerger/releases/tag/v2.0.0) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🔒 Closed issue [#116](https://github.com/MasterCruelty/eMerger/issues/116) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-3. 🔒 Closed issue [#118](https://github.com/MasterCruelty/eMerger/issues/118) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-4. 🔒 Closed issue [#115](https://github.com/MasterCruelty/eMerger/issues/115) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-5. 🔒 Closed issue [#95](https://github.com/MasterCruelty/eMerger/issues/95) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-6. 🔒 Closed issue [#105](https://github.com/MasterCruelty/eMerger/issues/105) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-7. 🔒 Closed issue [#111](https://github.com/MasterCruelty/eMerger/issues/111) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-8. 🔒 Closed issue [#85](https://github.com/MasterCruelty/eMerger/issues/85) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-9. ℹ️ Labeled PR [#119](https://github.com/MasterCruelty/eMerger/pull/119) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-10. ℹ️ Labeled PR [#119](https://github.com/MasterCruelty/eMerger/pull/119) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🔒 Closed issue [#6](https://github.com/MasterCruelty/MetroFlowRouter/issues/6) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+2. 🗣 Commented on [#6](https://github.com/MasterCruelty/MetroFlowRouter/issues/6#issuecomment-4292538349) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+3. 🗣 Commented on [#8](https://github.com/MasterCruelty/mastercruelty.github.io/issues/8#issuecomment-4292338689) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+4. 🔒 Closed issue [#8](https://github.com/MasterCruelty/mastercruelty.github.io/issues/8) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+5. 🎉 Merged PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+6. ℹ️ Labeled PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+7. 💪 Opened PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+8. ℹ️ Assigned PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+9. 🚀 Published release [v2.0.0 eMerger](https://github.com/MasterCruelty/eMerger/releases/tag/v2.0.0) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🔒 Closed issue [#116](https://github.com/MasterCruelty/eMerger/issues/116) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
 <!--END_SECTION:activity-->
