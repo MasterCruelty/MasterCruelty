@@ -13,14 +13,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/MasterCruelty/DeadPerimeter/pull/34) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-2. 💪 Opened PR [#34](https://github.com/MasterCruelty/DeadPerimeter/pull/34) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-3. 🎉 Merged PR [#33](https://github.com/MasterCruelty/DeadPerimeter/pull/33) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-4. 💪 Opened PR [#33](https://github.com/MasterCruelty/DeadPerimeter/pull/33) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-5. 🎉 Merged PR [#32](https://github.com/MasterCruelty/DeadPerimeter/pull/32) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-6. 💪 Opened PR [#32](https://github.com/MasterCruelty/DeadPerimeter/pull/32) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-7. 🎉 Merged PR [#31](https://github.com/MasterCruelty/DeadPerimeter/pull/31) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-8. 💪 Opened PR [#31](https://github.com/MasterCruelty/DeadPerimeter/pull/31) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+1. 🔒 Closed issue [#6](https://github.com/MasterCruelty/MetroFlowRouter/issues/6) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+2. 🗣 Commented on [#6](https://github.com/MasterCruelty/MetroFlowRouter/issues/6#issuecomment-4292538349) in [MasterCruelty/MetroFlowRouter](https://github.com/MasterCruelty/MetroFlowRouter)
+3. 🗣 Commented on [#8](https://github.com/MasterCruelty/mastercruelty.github.io/issues/8#issuecomment-4292338689) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+4. 🔒 Closed issue [#8](https://github.com/MasterCruelty/mastercruelty.github.io/issues/8) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+5. 🎉 Merged PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+6. ℹ️ Labeled PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+7. 💪 Opened PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+8. ℹ️ Assigned PR [#12](https://github.com/MasterCruelty/mastercruelty.github.io/pull/12) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
 9. 🎉 Merged PR [#30](https://github.com/MasterCruelty/DeadPerimeter/pull/30) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 10. 💪 Opened PR [#30](https://github.com/MasterCruelty/DeadPerimeter/pull/30) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 <!--END_SECTION:activity-->
