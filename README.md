@@ -4,10 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=MasterCruelty)<br>
 
 
-![Trophys](https://github-profile-trophy-fork-two.vercel.app/?username=MasterCruelty&theme=light)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mastercruelty&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=mastercruelty)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=mastercruelty&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastercruelty&langs_count=10&hide=jupyter%20notebook&exclude_repo=Alarm-project&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=mastercruelty&langs_count=10&hide=jupyter%20notebook&exclude_repo=Alarm-project&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MasterCruelty&hide_border=true)](https://git.io/streak-stats)
 
