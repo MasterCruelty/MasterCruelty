@@ -13,8 +13,8 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-2. ℹ️ Labeled PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+1. 🎉 Merged PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+2. 💪 Opened PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 3. 💪 Opened PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
 4. ℹ️ Assigned PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
 5. ℹ️ Labeled issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
