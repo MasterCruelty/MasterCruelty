@@ -13,12 +13,12 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-2. 💪 Opened PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-3. 💪 Opened PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-4. ℹ️ Assigned PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-5. ℹ️ Labeled issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
-6. ℹ️ Labeled issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
+1. 🎉 Merged PR [#37](https://github.com/MasterCruelty/DeadPerimeter/pull/37) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+2. 💪 Opened PR [#37](https://github.com/MasterCruelty/DeadPerimeter/pull/37) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+3. 🎉 Merged PR [#36](https://github.com/MasterCruelty/DeadPerimeter/pull/36) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+4. 💪 Opened PR [#36](https://github.com/MasterCruelty/DeadPerimeter/pull/36) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+5. 🎉 Merged PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+6. 💪 Opened PR [#35](https://github.com/MasterCruelty/DeadPerimeter/pull/35) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 7. ℹ️ Labeled issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 8. ❗ Opened issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
 9. ℹ️ Assigned issue [#178](https://github.com/MasterCruelty/robbot/issues/178) in [MasterCruelty/robbot](https://github.com/MasterCruelty/robbot)
