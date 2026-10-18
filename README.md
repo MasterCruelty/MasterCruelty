@@ -14,14 +14,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#117](https://github.com/MasterCruelty/eMerger/issues/117#issuecomment-6252722898) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
-2. 🎉 Merged PR [#44](https://github.com/MasterCruelty/DeadPerimeter/pull/44) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-3. 💪 Opened PR [#44](https://github.com/MasterCruelty/DeadPerimeter/pull/44) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-4. 🎉 Merged PR [#43](https://github.com/MasterCruelty/DeadPerimeter/pull/43) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-5. 💪 Opened PR [#43](https://github.com/MasterCruelty/DeadPerimeter/pull/43) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-6. 🎉 Merged PR [#42](https://github.com/MasterCruelty/DeadPerimeter/pull/42) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-7. 💪 Opened PR [#42](https://github.com/MasterCruelty/DeadPerimeter/pull/42) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-8. 🎉 Merged PR [#41](https://github.com/MasterCruelty/DeadPerimeter/pull/41) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-9. 💪 Opened PR [#41](https://github.com/MasterCruelty/DeadPerimeter/pull/41) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-10. 🎉 Merged PR [#40](https://github.com/MasterCruelty/DeadPerimeter/pull/40) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+1. 🚀 Published release [v3.0.0 eMerger](https://github.com/MasterCruelty/eMerger/releases/tag/v3.0.0) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+2. ℹ️ Labeled PR [#120](https://github.com/MasterCruelty/eMerger/pull/120) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+3. ℹ️ Labeled PR [#120](https://github.com/MasterCruelty/eMerger/pull/120) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+4. 🗣 Commented on [#117](https://github.com/MasterCruelty/eMerger/issues/117#issuecomment-6252722898) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+5. 🎉 Merged PR [#44](https://github.com/MasterCruelty/DeadPerimeter/pull/44) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+6. 💪 Opened PR [#44](https://github.com/MasterCruelty/DeadPerimeter/pull/44) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+7. 🎉 Merged PR [#43](https://github.com/MasterCruelty/DeadPerimeter/pull/43) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+8. 💪 Opened PR [#43](https://github.com/MasterCruelty/DeadPerimeter/pull/43) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+9. 🎉 Merged PR [#42](https://github.com/MasterCruelty/DeadPerimeter/pull/42) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+10. 💪 Opened PR [#42](https://github.com/MasterCruelty/DeadPerimeter/pull/42) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 <!--END_SECTION:activity-->
