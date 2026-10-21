@@ -14,14 +14,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/MasterCruelty/DeadPerimeter/pull/45) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-2. 💪 Opened PR [#45](https://github.com/MasterCruelty/DeadPerimeter/pull/45) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-3. 🎉 Merged PR [#3](https://github.com/MasterCruelty/human-combat-augmented/pull/3) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-4. 💪 Opened PR [#3](https://github.com/MasterCruelty/human-combat-augmented/pull/3) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-5. 🎉 Merged PR [#13](https://github.com/MasterCruelty/mastercruelty.github.io/pull/13) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
-6. 🎉 Merged PR [#2](https://github.com/MasterCruelty/human-combat-augmented/pull/2) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-7. 💪 Opened PR [#2](https://github.com/MasterCruelty/human-combat-augmented/pull/2) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-8. 🎉 Merged PR [#1](https://github.com/MasterCruelty/human-combat-augmented/pull/1) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-9. 💪 Opened PR [#1](https://github.com/MasterCruelty/human-combat-augmented/pull/1) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
-10. 🚀 Published release [v3.0.0 eMerger](https://github.com/MasterCruelty/eMerger/releases/tag/v3.0.0) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+1. 🎉 Merged PR [#4](https://github.com/MasterCruelty/human-combat-augmented/pull/4) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
+2. 🎉 Merged PR [#47](https://github.com/MasterCruelty/DeadPerimeter/pull/47) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+3. 💪 Opened PR [#47](https://github.com/MasterCruelty/DeadPerimeter/pull/47) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+4. ℹ️ Assigned PR [#4](https://github.com/MasterCruelty/human-combat-augmented/pull/4) in [MasterCruelty/human-combat-augmented](https://github.com/MasterCruelty/human-combat-augmented)
+5. ℹ️ Labeled PR [#121](https://github.com/MasterCruelty/eMerger/pull/121) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+6. ℹ️ Labeled PR [#121](https://github.com/MasterCruelty/eMerger/pull/121) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+7. ℹ️ Assigned PR [#121](https://github.com/MasterCruelty/eMerger/pull/121) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+8. ℹ️ Assigned PR [#121](https://github.com/MasterCruelty/eMerger/pull/121) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+9. 💪 Opened PR [#121](https://github.com/MasterCruelty/eMerger/pull/121) in [MasterCruelty/eMerger](https://github.com/MasterCruelty/eMerger)
+10. 🎉 Merged PR [#46](https://github.com/MasterCruelty/DeadPerimeter/pull/46) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 <!--END_SECTION:activity-->
