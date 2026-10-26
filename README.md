@@ -14,14 +14,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/MasterCruelty/travel-italian-provinces/pull/7) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
-2. 💪 Opened PR [#7](https://github.com/MasterCruelty/travel-italian-provinces/pull/7) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
-3. 🎉 Merged PR [#6](https://github.com/MasterCruelty/travel-italian-provinces/pull/6) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
-4. 💪 Opened PR [#6](https://github.com/MasterCruelty/travel-italian-provinces/pull/6) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
-5. 🎉 Merged PR [#52](https://github.com/MasterCruelty/DeadPerimeter/pull/52) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-6. 💪 Opened PR [#52](https://github.com/MasterCruelty/DeadPerimeter/pull/52) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-7. 🎉 Merged PR [#51](https://github.com/MasterCruelty/DeadPerimeter/pull/51) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-8. 🎉 Merged PR [#50](https://github.com/MasterCruelty/DeadPerimeter/pull/50) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-9. 🎉 Merged PR [#49](https://github.com/MasterCruelty/DeadPerimeter/pull/49) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-10. 💪 Opened PR [#51](https://github.com/MasterCruelty/DeadPerimeter/pull/51) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+1. 🎉 Merged PR [#14](https://github.com/MasterCruelty/mastercruelty.github.io/pull/14) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+2. 💪 Opened PR [#14](https://github.com/MasterCruelty/mastercruelty.github.io/pull/14) in [MasterCruelty/mastercruelty.github.io](https://github.com/MasterCruelty/mastercruelty.github.io)
+3. 🎉 Merged PR [#7](https://github.com/MasterCruelty/travel-italian-provinces/pull/7) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
+4. 💪 Opened PR [#7](https://github.com/MasterCruelty/travel-italian-provinces/pull/7) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
+5. 🎉 Merged PR [#6](https://github.com/MasterCruelty/travel-italian-provinces/pull/6) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
+6. 💪 Opened PR [#6](https://github.com/MasterCruelty/travel-italian-provinces/pull/6) in [MasterCruelty/travel-italian-provinces](https://github.com/MasterCruelty/travel-italian-provinces)
+7. 🎉 Merged PR [#52](https://github.com/MasterCruelty/DeadPerimeter/pull/52) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+8. 💪 Opened PR [#52](https://github.com/MasterCruelty/DeadPerimeter/pull/52) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+9. 🎉 Merged PR [#51](https://github.com/MasterCruelty/DeadPerimeter/pull/51) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+10. 🎉 Merged PR [#50](https://github.com/MasterCruelty/DeadPerimeter/pull/50) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
 <!--END_SECTION:activity-->
