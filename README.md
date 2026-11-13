@@ -14,14 +14,14 @@
 
 # :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/MasterCruelty/travel-maps/pull/25) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-2. 💪 Opened PR [#25](https://github.com/MasterCruelty/travel-maps/pull/25) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-3. 🎉 Merged PR [#24](https://github.com/MasterCruelty/travel-maps/pull/24) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-4. 🎉 Merged PR [#56](https://github.com/MasterCruelty/DeadPerimeter/pull/56) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-5. 💪 Opened PR [#56](https://github.com/MasterCruelty/DeadPerimeter/pull/56) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
-6. 💪 Opened PR [#24](https://github.com/MasterCruelty/travel-maps/pull/24) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-7. 🎉 Merged PR [#23](https://github.com/MasterCruelty/travel-maps/pull/23) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-8. 💪 Opened PR [#23](https://github.com/MasterCruelty/travel-maps/pull/23) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-9. 🎉 Merged PR [#22](https://github.com/MasterCruelty/travel-maps/pull/22) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
-10. 💪 Opened PR [#22](https://github.com/MasterCruelty/travel-maps/pull/22) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+1. 🎉 Merged PR [#27](https://github.com/MasterCruelty/travel-maps/pull/27) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+2. 💪 Opened PR [#27](https://github.com/MasterCruelty/travel-maps/pull/27) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+3. 🎉 Merged PR [#26](https://github.com/MasterCruelty/travel-maps/pull/26) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+4. 💪 Opened PR [#26](https://github.com/MasterCruelty/travel-maps/pull/26) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+5. 🎉 Merged PR [#25](https://github.com/MasterCruelty/travel-maps/pull/25) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+6. 💪 Opened PR [#25](https://github.com/MasterCruelty/travel-maps/pull/25) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+7. 🎉 Merged PR [#24](https://github.com/MasterCruelty/travel-maps/pull/24) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
+8. 🎉 Merged PR [#56](https://github.com/MasterCruelty/DeadPerimeter/pull/56) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+9. 💪 Opened PR [#56](https://github.com/MasterCruelty/DeadPerimeter/pull/56) in [MasterCruelty/DeadPerimeter](https://github.com/MasterCruelty/DeadPerimeter)
+10. 💪 Opened PR [#24](https://github.com/MasterCruelty/travel-maps/pull/24) in [MasterCruelty/travel-maps](https://github.com/MasterCruelty/travel-maps)
 <!--END_SECTION:activity-->
